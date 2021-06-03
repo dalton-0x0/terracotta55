@@ -1,5 +1,7 @@
-### Hi there 👋
+### Welcome to My GitHub Page 👋
 
+## About Me
+Software developer and engineer utilizing critical thinking to propose innovative solutions. Proficient in Javascript-based technologies including Typescript, React and Node. Experienced in data analytics and design of machine learning algorithms using Python with associated libraries including NumPy, Pandas and Matplotlib.
 <!--
 **terracotta55/terracotta55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
