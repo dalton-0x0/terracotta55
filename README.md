@@ -1,5 +1,5 @@
 ### About Me
-Software developer and engineer utilizing critical thinking to propose innovative solutions. Proficient in Javascript-based technologies including Typescript, React and Node. Experienced in data analytics and design of machine learning algorithms using Python with associated libraries including NumPy, Pandas and Matplotlib.
+Proficient in Javascript-based technologies including Typescript, React and Node. Experienced in data analytics and design of machine learning algorithms using Python with associated libraries including NumPy, Pandas and Matplotlib.
 
 ### Languages & Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
